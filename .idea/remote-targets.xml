@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="/mnt/c/Users/super/AppData/Local/JetBrains/Toolbox/apps/Goland/ch-0/212.5284.40/jbr/bin&#10;/Default (Template) Project" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="\\wsl$\Ubuntu\home\cass\go" />
+            <option name="goRoot" value="\\wsl$\Ubuntu\usr\local\go\bin" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
